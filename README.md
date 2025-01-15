@@ -4,7 +4,7 @@ This is a Discord bot that generate QR Codes from messages. When a user sends a 
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/nilaysarma/
+git clone https://github.com/nilaysarma/QR-Code-Discord-Bot.git
 ```
 
 2. Install the required packages:
