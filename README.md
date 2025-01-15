@@ -28,7 +28,9 @@ python main.py
 3. The bot will respond with a QR code image.
 
 ## Example
-example
+Here is an example below:
+
+![QR Code Discord Bot](example.png)
 
 ## Dependencies
 - `discord.py`: Python wrapper for the Discord API.
