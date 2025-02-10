@@ -12,15 +12,20 @@ git clone https://github.com/nilaysarma/QR-Code-Discord-Bot.git
 pip install -r requirements.txt
 ```
 
-3. Open the `.env` file and paste your discord bot token.
+3. Open the `.env` file and replace `YOUR_BOT_TOKEN_HERE` with your discord bot token.
 ```
 DISCORD_TOKEN=YOUR_BOT_TOKEN_HERE
 ```
 
 ## Usage
 1. To run the bot, execute the following command:
+- On Windows:
 ```sh
 python main.py
+```
+- On Linux / MacOS
+```sh
+python3 main.py
 ```
 
 2. Start your message with `!` followed by the text/URL you want to convert to a QR code.
